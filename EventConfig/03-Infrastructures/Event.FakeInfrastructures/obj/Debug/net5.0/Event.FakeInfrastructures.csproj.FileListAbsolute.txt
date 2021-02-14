@@ -1,0 +1,17 @@
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\03-Infrastructures\Event.FakeInfrastructures\bin\Debug\net5.0\Event.FakeInfrastructures.deps.json
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\03-Infrastructures\Event.FakeInfrastructures\bin\Debug\net5.0\Event.FakeInfrastructures.dll
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\03-Infrastructures\Event.FakeInfrastructures\bin\Debug\net5.0\ref\Event.FakeInfrastructures.dll
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\03-Infrastructures\Event.FakeInfrastructures\bin\Debug\net5.0\Event.FakeInfrastructures.pdb
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\03-Infrastructures\Event.FakeInfrastructures\bin\Debug\net5.0\Event.Domain.dll
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\03-Infrastructures\Event.FakeInfrastructures\bin\Debug\net5.0\Event.Framework.dll
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\03-Infrastructures\Event.FakeInfrastructures\bin\Debug\net5.0\Event.Domain.pdb
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\03-Infrastructures\Event.FakeInfrastructures\bin\Debug\net5.0\Event.Framework.pdb
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\03-Infrastructures\Event.FakeInfrastructures\obj\Debug\net5.0\Event.FakeInfrastructures.csprojAssemblyReference.cache
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\03-Infrastructures\Event.FakeInfrastructures\obj\Debug\net5.0\Event.FakeInfrastructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\03-Infrastructures\Event.FakeInfrastructures\obj\Debug\net5.0\Event.FakeInfrastructures.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\03-Infrastructures\Event.FakeInfrastructures\obj\Debug\net5.0\Event.FakeInfrastructures.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\03-Infrastructures\Event.FakeInfrastructures\obj\Debug\net5.0\Event.FakeInfrastructures.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\03-Infrastructures\Event.FakeInfrastructures\obj\Debug\net5.0\Event.FakeInfrastructures.csproj.CopyComplete
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\03-Infrastructures\Event.FakeInfrastructures\obj\Debug\net5.0\Event.FakeInfrastructures.dll
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\03-Infrastructures\Event.FakeInfrastructures\obj\Debug\net5.0\ref\Event.FakeInfrastructures.dll
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\03-Infrastructures\Event.FakeInfrastructures\obj\Debug\net5.0\Event.FakeInfrastructures.pdb

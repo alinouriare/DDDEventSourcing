@@ -1,0 +1,17 @@
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\04-ApplicationService\Event.Service\obj\Debug\net5.0\Event.Service.csprojAssemblyReference.cache
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\04-ApplicationService\Event.Service\obj\Debug\net5.0\Event.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\04-ApplicationService\Event.Service\obj\Debug\net5.0\Event.Service.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\04-ApplicationService\Event.Service\obj\Debug\net5.0\Event.Service.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\04-ApplicationService\Event.Service\obj\Debug\net5.0\Event.Service.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\04-ApplicationService\Event.Service\bin\Debug\net5.0\Event.Service.deps.json
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\04-ApplicationService\Event.Service\bin\Debug\net5.0\Event.Service.dll
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\04-ApplicationService\Event.Service\bin\Debug\net5.0\ref\Event.Service.dll
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\04-ApplicationService\Event.Service\bin\Debug\net5.0\Event.Service.pdb
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\04-ApplicationService\Event.Service\bin\Debug\net5.0\Event.Domain.dll
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\04-ApplicationService\Event.Service\bin\Debug\net5.0\Event.Framework.dll
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\04-ApplicationService\Event.Service\bin\Debug\net5.0\Event.Domain.pdb
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\04-ApplicationService\Event.Service\bin\Debug\net5.0\Event.Framework.pdb
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\04-ApplicationService\Event.Service\obj\Debug\net5.0\Event.Service.csproj.CopyComplete
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\04-ApplicationService\Event.Service\obj\Debug\net5.0\Event.Service.dll
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\04-ApplicationService\Event.Service\obj\Debug\net5.0\ref\Event.Service.dll
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\04-ApplicationService\Event.Service\obj\Debug\net5.0\Event.Service.pdb

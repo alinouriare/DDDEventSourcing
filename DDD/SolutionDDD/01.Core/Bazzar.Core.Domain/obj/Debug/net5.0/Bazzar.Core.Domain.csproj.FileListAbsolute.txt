@@ -1,0 +1,17 @@
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\01.Core\Bazzar.Core.Domain\obj\Debug\net5.0\Bazzar.Core.Domain.csprojAssemblyReference.cache
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\01.Core\Bazzar.Core.Domain\obj\Debug\net5.0\Bazzar.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\01.Core\Bazzar.Core.Domain\obj\Debug\net5.0\Bazzar.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\01.Core\Bazzar.Core.Domain\obj\Debug\net5.0\Bazzar.Core.Domain.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\01.Core\Bazzar.Core.Domain\obj\Debug\net5.0\Bazzar.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\01.Core\Bazzar.Core.Domain\bin\Debug\net5.0\Bazzar.Core.Domain.deps.json
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\01.Core\Bazzar.Core.Domain\bin\Debug\net5.0\Bazzar.Core.Domain.dll
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\01.Core\Bazzar.Core.Domain\bin\Debug\net5.0\ref\Bazzar.Core.Domain.dll
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\01.Core\Bazzar.Core.Domain\bin\Debug\net5.0\Bazzar.Core.Domain.pdb
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\01.Core\Bazzar.Core.Domain\bin\Debug\net5.0\Framework.Domain.dll
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\01.Core\Bazzar.Core.Domain\bin\Debug\net5.0\Framework.Tools.dll
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\01.Core\Bazzar.Core.Domain\bin\Debug\net5.0\Framework.Domain.pdb
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\01.Core\Bazzar.Core.Domain\bin\Debug\net5.0\Framework.Tools.pdb
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\01.Core\Bazzar.Core.Domain\obj\Debug\net5.0\Bazzar.Core.Domain.csproj.CopyComplete
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\01.Core\Bazzar.Core.Domain\obj\Debug\net5.0\Bazzar.Core.Domain.dll
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\01.Core\Bazzar.Core.Domain\obj\Debug\net5.0\ref\Bazzar.Core.Domain.dll
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\01.Core\Bazzar.Core.Domain\obj\Debug\net5.0\Bazzar.Core.Domain.pdb

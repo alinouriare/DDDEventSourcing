@@ -1,0 +1,11 @@
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\00. Framework\Framework.Tools\bin\Debug\net5.0\Framework.Tools.deps.json
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\00. Framework\Framework.Tools\bin\Debug\net5.0\Framework.Tools.dll
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\00. Framework\Framework.Tools\bin\Debug\net5.0\ref\Framework.Tools.dll
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\00. Framework\Framework.Tools\bin\Debug\net5.0\Framework.Tools.pdb
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\00. Framework\Framework.Tools\obj\Debug\net5.0\Framework.Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\00. Framework\Framework.Tools\obj\Debug\net5.0\Framework.Tools.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\00. Framework\Framework.Tools\obj\Debug\net5.0\Framework.Tools.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\00. Framework\Framework.Tools\obj\Debug\net5.0\Framework.Tools.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\00. Framework\Framework.Tools\obj\Debug\net5.0\Framework.Tools.dll
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\00. Framework\Framework.Tools\obj\Debug\net5.0\ref\Framework.Tools.dll
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\00. Framework\Framework.Tools\obj\Debug\net5.0\Framework.Tools.pdb

@@ -1,0 +1,12 @@
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\01-Framework\Event.Framework\bin\Debug\net5.0\Event.Framework.deps.json
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\01-Framework\Event.Framework\bin\Debug\net5.0\Event.Framework.dll
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\01-Framework\Event.Framework\bin\Debug\net5.0\ref\Event.Framework.dll
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\01-Framework\Event.Framework\bin\Debug\net5.0\Event.Framework.pdb
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\01-Framework\Event.Framework\obj\Debug\net5.0\Event.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\01-Framework\Event.Framework\obj\Debug\net5.0\Event.Framework.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\01-Framework\Event.Framework\obj\Debug\net5.0\Event.Framework.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\01-Framework\Event.Framework\obj\Debug\net5.0\Event.Framework.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\01-Framework\Event.Framework\obj\Debug\net5.0\Event.Framework.dll
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\01-Framework\Event.Framework\obj\Debug\net5.0\ref\Event.Framework.dll
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\01-Framework\Event.Framework\obj\Debug\net5.0\Event.Framework.pdb
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\01-Framework\Event.Framework\obj\Debug\net5.0\Event.Framework.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+nUFzJBkTMrOwzySaQwN9mUXXcQk0SrS/i12s+JbpUp6rZZEsS4QIhDhLqeHxFQq+o/Ay0kWALh5MhY9vnDsCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alino\\OneDrive\\Desktop\\New folder\\EventConfig\\EventSourcing\\Event.Sourcing.Person\\Event.Sourcing.Person.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alino\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

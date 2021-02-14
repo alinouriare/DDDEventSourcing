@@ -1,0 +1,12 @@
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\EventSourcing\Event.Sourcing.Person\bin\Debug\net5.0\Event.Sourcing.Person.deps.json
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\EventSourcing\Event.Sourcing.Person\bin\Debug\net5.0\Event.Sourcing.Person.dll
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\EventSourcing\Event.Sourcing.Person\bin\Debug\net5.0\ref\Event.Sourcing.Person.dll
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\EventSourcing\Event.Sourcing.Person\bin\Debug\net5.0\Event.Sourcing.Person.pdb
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\EventSourcing\Event.Sourcing.Person\obj\Debug\net5.0\Event.Sourcing.Person.csprojAssemblyReference.cache
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\EventSourcing\Event.Sourcing.Person\obj\Debug\net5.0\Event.Sourcing.Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\EventSourcing\Event.Sourcing.Person\obj\Debug\net5.0\Event.Sourcing.Person.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\EventSourcing\Event.Sourcing.Person\obj\Debug\net5.0\Event.Sourcing.Person.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\EventSourcing\Event.Sourcing.Person\obj\Debug\net5.0\Event.Sourcing.Person.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\EventSourcing\Event.Sourcing.Person\obj\Debug\net5.0\Event.Sourcing.Person.dll
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\EventSourcing\Event.Sourcing.Person\obj\Debug\net5.0\ref\Event.Sourcing.Person.dll
+C:\Users\alino\OneDrive\Desktop\New folder\EventConfig\EventSourcing\Event.Sourcing.Person\obj\Debug\net5.0\Event.Sourcing.Person.pdb

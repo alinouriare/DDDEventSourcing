@@ -1,0 +1,15 @@
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\02. Infrastructures\Bazzar.Infrastructures.Data.EventsSourcings\bin\Debug\net5.0\Bazzar.Infrastructures.Data.EventsSourcings.deps.json
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\02. Infrastructures\Bazzar.Infrastructures.Data.EventsSourcings\bin\Debug\net5.0\Bazzar.Infrastructures.Data.EventsSourcings.dll
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\02. Infrastructures\Bazzar.Infrastructures.Data.EventsSourcings\bin\Debug\net5.0\ref\Bazzar.Infrastructures.Data.EventsSourcings.dll
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\02. Infrastructures\Bazzar.Infrastructures.Data.EventsSourcings\bin\Debug\net5.0\Bazzar.Infrastructures.Data.EventsSourcings.pdb
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\02. Infrastructures\Bazzar.Infrastructures.Data.EventsSourcings\bin\Debug\net5.0\Framework.Domain.dll
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\02. Infrastructures\Bazzar.Infrastructures.Data.EventsSourcings\bin\Debug\net5.0\Framework.Domain.pdb
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\02. Infrastructures\Bazzar.Infrastructures.Data.EventsSourcings\obj\Debug\net5.0\Bazzar.Infrastructures.Data.EventsSourcings.csprojAssemblyReference.cache
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\02. Infrastructures\Bazzar.Infrastructures.Data.EventsSourcings\obj\Debug\net5.0\Bazzar.Infrastructures.Data.EventsSourcings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\02. Infrastructures\Bazzar.Infrastructures.Data.EventsSourcings\obj\Debug\net5.0\Bazzar.Infrastructures.Data.EventsSourcings.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\02. Infrastructures\Bazzar.Infrastructures.Data.EventsSourcings\obj\Debug\net5.0\Bazzar.Infrastructures.Data.EventsSourcings.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\02. Infrastructures\Bazzar.Infrastructures.Data.EventsSourcings\obj\Debug\net5.0\Bazzar.Infrastructures.Data.EventsSourcings.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\02. Infrastructures\Bazzar.Infrastructures.Data.EventsSourcings\obj\Debug\net5.0\Bazzar.Infrastructures.Data.EventsSourcings.csproj.CopyComplete
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\02. Infrastructures\Bazzar.Infrastructures.Data.EventsSourcings\obj\Debug\net5.0\Bazzar.Infrastructures.Data.EventsSourcings.dll
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\02. Infrastructures\Bazzar.Infrastructures.Data.EventsSourcings\obj\Debug\net5.0\ref\Bazzar.Infrastructures.Data.EventsSourcings.dll
+C:\Users\alino\OneDrive\Desktop\DDD\SolutionDDD\02. Infrastructures\Bazzar.Infrastructures.Data.EventsSourcings\obj\Debug\net5.0\Bazzar.Infrastructures.Data.EventsSourcings.pdb

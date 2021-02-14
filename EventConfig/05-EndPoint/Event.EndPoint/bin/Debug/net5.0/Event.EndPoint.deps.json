@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Event.EndPoint/1.0.0": {
+        "dependencies": {
+          "Event.FakeInfrastructures": "1.0.0",
+          "Event.Framework": "1.0.0",
+          "Event.Service": "1.0.0"
+        },
+        "runtime": {
+          "Event.EndPoint.dll": {}
+        }
+      },
+      "Event.Domain/1.0.0": {
+        "dependencies": {
+          "Event.Framework": "1.0.0"
+        },
+        "runtime": {
+          "Event.Domain.dll": {}
+        }
+      },
+      "Event.FakeInfrastructures/1.0.0": {
+        "dependencies": {
+          "Event.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Event.FakeInfrastructures.dll": {}
+        }
+      },
+      "Event.Framework/1.0.0": {
+        "runtime": {
+          "Event.Framework.dll": {}
+        }
+      },
+      "Event.Service/1.0.0": {
+        "dependencies": {
+          "Event.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Event.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Event.EndPoint/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Event.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Event.FakeInfrastructures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Event.Framework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Event.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
